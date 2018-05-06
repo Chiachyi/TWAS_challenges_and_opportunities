@@ -1,4 +1,4 @@
-# Vulnerabilities of TWAS
+# Transcriptome-wide association studies: challenges and opportunities
 
 ## Code files
 
